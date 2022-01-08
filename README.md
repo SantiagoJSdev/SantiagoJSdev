@@ -1,5 +1,6 @@
 ### Hi I'm S@ntiago 👋
-
+<p align="center"><strong>Front-end Developer & future Fullstack</strong> ¡Hola! Soy Santiago, un desarrollador web auto motivado<br />Apasionado en todo lo relacionado con la tecnologia web</p>
+<p align="center">
 
 ```javascript
 const santiagoJSdev = {
