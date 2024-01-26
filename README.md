@@ -24,6 +24,6 @@ const santiagoJSdev = {
 ## 📫 Contact Me
 - Twitter - [SantiagoJSdev](https://twitter.com/SantiagoJSdev)
 - LinkedIn - [santiagoa31219](https://www.linkedin.com/in/santiagoa31219)
-- Web - [Portafolio](https://santiagojsdev.github.io/portafolio/)
+- Web - [Portafolio](https://santiagojsdev.github.io/portafolio-off/)
 
 ---
