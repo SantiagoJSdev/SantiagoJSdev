@@ -1,5 +1,5 @@
 ### Hi I'm S@ntiago 👋
-<p align="center"><strong>Front-end Developer & future Fullstack</strong><br />Apasionado en todo lo relacionado con la tecnologia web</p>
+<p align="center"><strong>Software Developer </strong><br />Apasionado en todo lo relacionado con la tecnologia web</p>
 <p align="center">
 
 ```javascript
